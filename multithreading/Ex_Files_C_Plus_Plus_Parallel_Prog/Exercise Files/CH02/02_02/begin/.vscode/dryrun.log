@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/ddarm/example/multithreading/Ex_Files_C_Plus_Plus_Parallel_Prog/Exercise Files/CH02/02_02/begin'
+g++ -Wall -std=c++11 thread_process_demo.cpp -o thread_process_demo
+make: Leaving directory 'c:/Users/ddarm/example/multithreading/Ex_Files_C_Plus_Plus_Parallel_Prog/Exercise Files/CH02/02_02/begin'
+ 

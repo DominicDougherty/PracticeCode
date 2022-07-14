@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/ddarm/example/multithreading/Ex_Files_Parallel_C_Plus_Plus_Pt2/Exercise Files'
+make: Leaving directory 'c:/Users/ddarm/example/multithreading/Ex_Files_Parallel_C_Plus_Plus_Pt2/Exercise Files'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
